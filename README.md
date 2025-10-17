@@ -1,2 +1,2 @@
 # Sales-data-analysis-in-Python
-У датасеті міститься інформація щодо продажів продукції компанії, яка працює на світовому ринку і продає товари у звичайних магазинах та інтернет-магазинах. Основна мета цієї роботи — очищення даних та проведення їх аналізу, знаходження цінних інсайтів діяльності компанії, а також їх візуалізація за допомогою Python.
+The dataset contains information on sales of the company's products, which operates on the world market and sells goods in ordinary stores and online stores. The main goal of this work is to clean up data and analyze it, find valuable insights into the company's activities, and visualize them using Python. The work was done using the Pandas, Seaborn, Matplotlib libraries.
